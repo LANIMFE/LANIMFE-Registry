@@ -1,0 +1,3 @@
+name = "LiquidsDynamics"
+uuid = "ee594226-bf90-11e9-0512-4d00cc65c9b3"
+repo = "https://github.com/LANIMFE/LiquidsDynamics.jl"
