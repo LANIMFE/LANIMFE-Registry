@@ -1,5 +1,4 @@
-LANIMFE-Registry
-----------------
+# LANIMFE-Registry
 
 This is a Julia package registry which provides access to packages developed within the
 LANIMFE organization.
