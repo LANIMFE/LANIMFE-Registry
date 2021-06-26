@@ -1,0 +1,6 @@
+name = "LANIMFE"
+uuid = "4bdddc90-020a-4e59-bfa3-524b87b37479"
+repo = "https://github.com/LANIMFE/LANIMFERegistry"
+description = "LANIMFE Julia packages registry"
+
+[packages]
