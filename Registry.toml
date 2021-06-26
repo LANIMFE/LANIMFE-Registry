@@ -4,3 +4,4 @@ repo = "https://github.com/LANIMFE/LANIMFE-Registry"
 description = "Julia packages registry from LANIMFE"
 
 [packages]
+4a901fcc-f81f-59f3-9077-2f09e0dff85c = { name = "ApproximationGrids", path = "A/ApproximationGrids" }
