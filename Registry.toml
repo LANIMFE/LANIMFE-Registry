@@ -6,4 +6,5 @@ description = "Julia packages registry from LANIMFE"
 [packages]
 3b2fbd69-638f-58f2-a86a-379d5727c4f6 = { name = "LiquidsStructure", path = "L/LiquidsStructure" }
 4a901fcc-f81f-59f3-9077-2f09e0dff85c = { name = "ApproximationGrids", path = "A/ApproximationGrids" }
+cb65a40a-bf8e-11e9-04fa-670b3879d50e = { name = "LiquidsNEqProcesses", path = "L/LiquidsNEqProcesses" }
 ee594226-bf90-11e9-0512-4d00cc65c9b3 = { name = "LiquidsDynamics", path = "L/LiquidsDynamics" }
